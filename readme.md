@@ -30,7 +30,7 @@ neofetch/
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/MoB-369/LSP-Projects.git
+    git clone https://github.com/MoB-369/neofetch.git
     cd neofetch
     ```
 
